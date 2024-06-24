@@ -1,0 +1,1 @@
+English Sentences Sentence MT Quality Prediction Sentence Informativeness Evaluation MT quality score Informativeness score English Summary Extraction English summary EN-to-CN Machine Translation Chinese Summary Figure 1 : Architecture of our proposed an-

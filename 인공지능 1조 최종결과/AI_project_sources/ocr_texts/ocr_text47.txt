@@ -1,0 +1,10 @@
+. hy ar,
+: Create a program in either C++ or PERL to take an English sentence and convert each word In’ he.
+the sentence to pig latin. Preserve case and any punctuation. You may use the program from Re .
+lecture as a guide and starting point. a
+ty ae
++10 bonus points if you can make the program prompt for additional sentences and convert ‘ r!
+them until the user types a sentence consisting of only the single word "quit" = Me
+1 would recommend if you are attempting the bonus to turn in the first part as one file and then a
+create a second program that does the bonus part. This will insure you will get full credit for the :
+main assignment if your bonus doesn't work.

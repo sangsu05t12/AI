@@ -1,0 +1,14 @@
+Bonus. There is a special type of English sentence that lingnists refer to as “donkey sentences.”
+
+‘Two typical examples of such sentences are the following:
+
+(a) Every farmer who owns a donkey beats it.
+
+{b) Ifa farmer own a donkey. he beats it.
+‘Tey translating one (or both!) of these sentences into Predicate Logic. What problems
+(if any) do you rim into when attempting to do so? Discuss any solutions you might try
+to resolve these problems (ie to the translations. 1o the meta-language. etc). (10 points]
+For the record, there is a way (o translate these sentences into Predicate Logic, but the
+translations are somewhat. .. surprising. If you think you've figured out the translation
+for ane, explain what serms to he unexpected about it, Even if yon can't get this
+translation, show your best attempt and explain why it doesn’t seem quite right

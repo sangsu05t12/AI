@@ -1,0 +1,48 @@
+MTSummityi 0 Sept. 1999
+English-to-Korean Web Translator: *FromTo/Web-EK"
+Sung-Kwon Choi, Taewan Kim, Sang-Hwa Yuh, Han-Min Jung,
+‘Chul-Min Sim, Sang-Kyu Park
+Knowledge Processing Research Team
+Electronics and Telecommunications Research Institute
+Korea
+Abstract. of them enumerated a following list of the problems
+The previous English-Korean MT. system that had not seemed to be easy to solve in the near
+that have been developed in Korea have dealt funure in tetms of the problems for evolution of the
+with only written text as translation object system (Choi ef al, 1994):
+Most of them enumerated a following list of
+the problems that had not seemed to be easy + processing of | non-continuous idiomatic
+to solve in the near future = 1) processing of expressions
+non-continuous idiomatic expressions 2) + reduction of too many ambiguities of POS or
+reduction of too many POS or structural structural ambiguities
+ambiguities 3) robust processing for long + robust processing for long sentences and failed
+sentence and parsing failure 4) selecting or ill-formed sentences
+correct word correspondence between + selecting correct word correspondency between
+several alternatives. The problems can be several alternatives
+considered a important factors that have
+influence on the translation quality of The problems result in dropping a translation
+machine translation system. This paper assessment such as fidelity, intelligibility, and style
+describes not only the solutions of problems (Hutchins and Somers, 1992). They can be the
+of the previous English-to-Korean machine problems with which previous English-to-Korean MT
+translation systems but also the IITML tags systems as well as other MT systems also have faced.
+management between two structurally This paper describes not only the solutions of
+different languages, English and Korean, problems of previous English-to-Korean machine
+Through the solutions we translate translation systems but also the methods transferring
+successtully English web documents into the HTML tags for web-based machine translation on.
+Korean one in the English-to-Korean web Internet between two structurally different languages
+translator "FromTo/Web-EK" which has such a5 English and Korean. This paper is written on
+been developed from 1997, the basis of the Englishto-Korcan web translator
+“gromTo‘Web-EK" which has been developed from
+1 Introduction 1997.
+The huge growth of the Intemet allows human to :
+get the unvestricted useful information from Intemet. 2 System Overview
+But the problem is always the language barrier, and Englishto-Korean web translator FromTo/Web-EK.
+becomes worse between structurally different jag been developed fom 1997 to. 1998, solving the
+Janguage group, as we know wel problems of machine translation systems for written
+In order to solve the language barrier the machine ext and expanding its coverage 10, WWW.
+teanslation systems ftom either English or Japanese © — FromTo/Web-EK belongs to the rule-based
+areas or revere ave been. developed actively i mmethodology for machine translation and has tee
+eee Te ree ete Enaist to Kofean wansduction formalism that does English sentence
+MT systems that have been developed in Korea have
+dealt with only writen text as tanslation object. Most ualysis. transforms the result (parse Uree) into an
+intermediate representation, and then transforms it
+= 432.

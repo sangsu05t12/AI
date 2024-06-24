@@ -1,0 +1,27 @@
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Ut purus elit,
+vestibulum ut, placerat ac, adipiscing vitae, felis, Curabitur dictum gravida
+mauris. Nam arcu libero, nonummy eget, consectetuer id, vulputate a, magna.
+Donec vehicula augue eu neque. Pellentesque habitant morbi tristique senectus
+et netus et malesuada fames ac turpis egestas. Mauris ut leo. Cras viverra
+metus rhoncus sem. Nulla et lectus vestibulum urna fringilla ultrices. Phasellus
+eu tellus sit amet tortor gravida placerat. Integer sapien est, iaculis in, pretium
+quis, viverra ac, nunc. Praesent eget sem vel leo ultrices bibendum. Aenean
+faucibus. Morbi dolor nulla, malesuada eu, pulvinar at, mollis ac, nulla. Cur-
+abitur auctor semper nulla. Donec varius orci eget risus. Duis nibh mi, congue
+eu, accunsan eleifend, sagittis quis, diam. Duis eget orci sit amet orci dignissim
+rutrum.
+
+(1) This is an example
+
+Sentence (1) provides a good cxample of basic English. If you want to continue
+the numbering, you may use resume feature provided by the enumitem package.
+Some other enumerate in the middle:
+
+1. This is an some other example not related to language
+And again, one more language example.
+
+(2) This is an example running very very very very very very very very
+very very very very very very very very very very very long into two
+lines
+
+Sentence (2) provides a good example of simple English. Hope this is useful,

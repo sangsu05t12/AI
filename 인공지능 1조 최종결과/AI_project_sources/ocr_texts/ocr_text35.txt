@@ -1,0 +1,15 @@
+English Sentence Structure
+and
+Entity-Relationship Diagrams
+Jian Liu and Bo Xue
+Csci 5707: Introduction to Databases, Fall 2013
+
+Relationship to Course:
+
+-Textbook Chapters 7 -10 on Conceptual Data Model
+
+- Lab 2 Part Ill - Building conceptual data model from document
+Reference: Peter P. Chen, “Entity-Relationship Diagrams and English Sentence
+Structure”, Proceedings of the 1st International Conference on the Entity-Relationship
+Approach to Systems Analysis and Design, p.13-14, January 1980,
+http://dl.acm.org/citation.cfm?id=726196

@@ -1,0 +1,15 @@
+English ll
+Sentences
+Sentence Sentence
+MT Quality Informativeness
+Prediction Evaluation
+MI) quality score Informativeness|score
+English
+Summary
+Extraction
+English|summary
+EN-to-CN
+Machine
+Translation
+Chinese Summary
+Bionre 1: Architecture of anr nrannced an-

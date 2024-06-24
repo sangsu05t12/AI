@@ -1,0 +1,3 @@
+AI_project_sources : 인식 성능 향상도 측정을 위한 이미지파일과 텍스트 파일, 레벤슈타인 거리 측정 결과 텍스트 파일
+tess4j-tess4j-5.7.0 : java eclipse 환경에서 tesseract-ocr을 사용하기 위한 라이브러리 프로젝트. 내부에 개발한 소스코드가 들어있음.
+tessdata : Tesseract에서 사용하는 언어 데이터 파일 디렉토리. 내부에 eng.traineddata를 포함해 여러 학습시킨 모델 데이터가 들어있다.
